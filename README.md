@@ -185,11 +185,9 @@ Filling out online forms, especially on mobile devices, can be difficult. To imp
 If you have questions, you will find the answers here!
 
 ### Why did you create this guide?
-I didn't create this guide from scratch, I copied the [Mobile Web Specialist Study Guide](https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide-MobileWebSpecialist.pdf) content and resources.
+I didn't create this guide from scratch, I copied the [Mobile Web Specialist Study Guide](https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide-MobileWebSpecialist.pdf) content and resources because I will start my journey to get ```The Mobile Web Specialist``` certification today, and I want to add more useful - Free or Paid - resources to this guide to help others and save their time!
 
-**Why I am doing this?** I will start my journey to get ```The Mobile Web Specialist``` certification today, and I want to add more resources to this guide when I reach every part and find useful - Free or Paid - resources.
-
-Google wrote a very useful note - it was the reason for this guide - in their ```Mobile Web Specialist Study Guide```:
+Google wrote a very useful note - it is one of the reasons to write this guide - in their ```Mobile Web Specialist Study Guide```:
 >  Note that these resources form only a small portion of what is available on the web, and we encourage you to do additional research
 
 ### Is it a FREE certification?
