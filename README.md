@@ -31,13 +31,13 @@ Users expect responsive and visually engaging websites regardless of the device.
 - Touch and mouse events that contain large hit targets on the front end and work regardless of platform
 
 #### Resources
-- [x] [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
-- [x] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [x] [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
-- [x] [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
-- [x] [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882)
-- [x] [Supporting both TouchEvent and MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Supporting_both_TouchEvent_and_MouseEvent)
-- [x] [Touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
+- [ ] [Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ux/responsive/)
+- [ ] [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] [Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
+- [ ] [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+- [ ] [Responsive Images by Google](https://www.udacity.com/course/responsive-images--ud882)
+- [ ] [Supporting both TouchEvent and MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Supporting_both_TouchEvent_and_MouseEvent)
+- [ ] [Touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
 
 
 ### 2) Front End Networking
@@ -53,12 +53,12 @@ requests, depending on the server’s response headers
 - Diagnosing network issues using debugging and development tools
 
 #### Resources
-- [x] [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-- [x] [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
-- [x] [David Walsh's blog on fetch](https://davidwalsh.name/fetch)
-- [x] [Jake Archibald's blog on fetch](https://jakearchibald.com/2015/thats-so-fetch/)
-- [x] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
-- [x] [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
+- [ ] [Using fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [ ] [Introduction to fetch()](https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
+- [ ] [David Walsh's blog on fetch](https://davidwalsh.name/fetch)
+- [ ] [Jake Archibald's blog on fetch](https://jakearchibald.com/2015/thats-so-fetch/)
+- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises)
+- [ ] [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
 
 
 ### 3) Accessibility
@@ -74,12 +74,12 @@ Web pages and applications should be accessible to all users, including those wi
 - Using semantic markup to keep content and presentation separate when appropriate
   
 #### Resources
-- [x] [Web Fundamentals – Accessibility](https://developers.google.com/web/fundamentals/accessibility/)
-- [x] [Mobile Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile)
-- [x] [Using tabindex](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex)
-- [x] [Focus](https://developers.google.com/web/fundamentals/accessibility/focus/)
-- [x] [Skip Navigation Links](http://webaim.org/techniques/skipnav/)
-- [x] [ARIA](https://webaim.org/techniques/skipnav/)
+- [ ] [Web Fundamentals – Accessibility](https://developers.google.com/web/fundamentals/accessibility/)
+- [ ] [Mobile Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile)
+- [ ] [Using tabindex](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex)
+- [ ] [Focus](https://developers.google.com/web/fundamentals/accessibility/focus/)
+- [ ] [Skip Navigation Links](http://webaim.org/techniques/skipnav/)
+- [ ] [ARIA](https://webaim.org/techniques/skipnav/)
 
 
 ### 4) Progressive Web Apps
@@ -90,11 +90,11 @@ Users expect native applications to be available offline and provide a feature-r
 - Separating critical application functionality and UI into an application shell that can be loaded independently from the content
   
 #### Resources
-- [x] [Progressive Web Apps](https://developers.google.com/web/fundamentals/accessibility/)
-- [x] [Progressive Web Apps Training](https://developers.google.com/web/ilt/pwa/)
-- [x] [Web Fundamentals - The App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
-- [x] [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
-- [x] [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
+- [ ] [Progressive Web Apps](https://developers.google.com/web/fundamentals/accessibility/)
+- [ ] [Progressive Web Apps Training](https://developers.google.com/web/ilt/pwa/)
+- [ ] [Web Fundamentals - The App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
+- [ ] [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
+- [ ] [Using Service Workers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers)
 
 
 ### 5) Performance Optimization and Caching
@@ -115,14 +115,14 @@ Mobile users demand websites that load nearly instantly, despite poor or absent 
   - Using IndexedDB to store dynamic content in offline mode
 
 #### Resources
-- [x] [Offline Web Applications by Google](https://www.udacity.com/course/offline-web-applications--ud899)
-- [x] [Web Fundamentals - Performance](https://developers.google.com/web/fundamentals/performance/rail)
-- [x] [The Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
-- [x] [Cache - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
-- [x] [Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage)
-- [x] [Local Storage And How To Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
-- [x] [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-- [x] [Get Started with Analyzing Network Performance in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network-performance/)
+- [ ] [Offline Web Applications by Google](https://www.udacity.com/course/offline-web-applications--ud899)
+- [ ] [Web Fundamentals - Performance](https://developers.google.com/web/fundamentals/performance/rail)
+- [ ] [The Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
+- [ ] [Cache - MDN](https://developer.mozilla.org/en-US/docs/Web/API/Cache)
+- [ ] [Storage](https://developer.mozilla.org/en-US/docs/Web/API/Storage)
+- [ ] [Local Storage And How To Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
+- [ ] [IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [ ] [Get Started with Analyzing Network Performance in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network-performance/)
 
 
 ### 6) Testing and Debugging
@@ -134,9 +134,9 @@ Developers typically work in highly iterative deployment environments, relying o
 - Reproducing and fixing bugs based on user reported issues
 
 #### Resources
-- [x] [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-- [x] [Diagnose and Log to Console](https://developers.google.com/web/tools/chrome-devtools/console/console-write)
-- [x] [Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers/)
+- [ ] [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+- [ ] [Diagnose and Log to Console](https://developers.google.com/web/tools/chrome-devtools/console/console-write)
+- [ ] [Debugging Service Workers](https://developers.google.com/web/fundamentals/codelabs/debugging-service-workers/)
 
 
 ### 7) ES2015 Concepts and Syntax
@@ -152,14 +152,14 @@ Web developers must stay current with the latest JavaScript features that promot
 - Sets that contain only unique, iterable elements where an array would degrade performance
 
 #### Resources
-- [x] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises) *Just if you ignored it in "[2) Front End Networking](#2-front-end-networking)" part )*
-- [x] [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
-- [x] [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
-- [x] [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
-- [x] [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
-- [x] [For...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
-- [x] [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
-- [x] [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
+- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises) *Just if you ignored it in "[2) Front End Networking](#2-front-end-networking)" part )*
+- [ ] [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+- [ ] [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+- [ ] [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [ ] [Default parameters](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters)
+- [ ] [For...of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+- [ ] [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+- [ ] [Set](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set)
 
 
 ### 8) Mobile Web Forms
@@ -174,11 +174,11 @@ Filling out online forms, especially on mobile devices, can be difficult. To imp
   - Form validation prior to submission (Constraint Validation API)
 
 #### Resources
-- [x] [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
-- [x] [Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation)
-- [x] [Client-Side Form Validation with HTML5](https://www.sitepoint.com/client-side-form-validation-html5/)
-- [x] [Data form validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
-- [x] [Create Amazing Forms](https://developers.google.com/web/fundamentals/design-and-ui/input/forms/)
+- [ ] [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+- [ ] [Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation)
+- [ ] [Client-Side Form Validation with HTML5](https://www.sitepoint.com/client-side-form-validation-html5/)
+- [ ] [Data form validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
+- [ ] [Create Amazing Forms](https://developers.google.com/web/fundamentals/design-and-ui/input/forms/)
 
 
 ## FAQs
@@ -187,7 +187,7 @@ If you have questions, you will find the answers here!
 ### Why did you create this guide?
 I didn't create this guide from scratch, I copied the [Mobile Web Specialist Study Guide](https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide_MobileWebSpecialist.pdf) content and resources because I will start my journey to get ```The Mobile Web Specialist``` certification today, and I want to add more useful - Free or Paid - resources to this guide to help others and save their time!
 
-Google wrote a very useful note - it is one of the reasons to write this guide - in their ```Mobile Web Specialist Study Guide```:
+Google wrote a very useful note - it is one of the reasons to write this guide - in their `Mobile Web Specialist Study Guide`:
 >  Note that these resources form only a small portion of what is available on the web, and we encourage you to do additional research
 
 ### Is it a FREE certification?
