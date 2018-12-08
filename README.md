@@ -176,12 +176,11 @@ Filling out online forms, especially on mobile devices, can be difficult. To imp
   - Form validation prior to submission (Constraint Validation API)
 
 #### Resources
-- [ ] [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
+- [ ] [Create Amazing Forms](https://developers.google.com/web/fundamentals/design-and-ui/input/forms/)
 - [ ] [Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5/Constraint_validation)
 - [ ] [Client-Side Form Validation with HTML5](https://www.sitepoint.com/client-side-form-validation-html5/)
 - [ ] [Data form validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation)
-- [ ] [Create Amazing Forms](https://developers.google.com/web/fundamentals/design-and-ui/input/forms/)
-
+- [ ] [HTML Forms](https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms)
 
 ## FAQs
 If you have questions, you will find the answers here!
