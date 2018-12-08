@@ -116,6 +116,7 @@ Mobile users demand websites that load nearly instantly, despite poor or absent 
   - Using IndexedDB to store dynamic content in offline mode
 
 #### Resources
+- [ ] [Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 - [ ] [Offline Web Applications by Google](https://www.udacity.com/course/offline-web-applications--ud899)
 - [ ] [Web Fundamentals - Performance](https://developers.google.com/web/fundamentals/performance/rail)
 - [ ] [The Offline Cookbook](https://jakearchibald.com/2014/offline-cookbook/)
