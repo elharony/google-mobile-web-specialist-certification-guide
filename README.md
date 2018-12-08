@@ -75,6 +75,7 @@ Web pages and applications should be accessible to all users, including those wi
   
 #### Resources
 - [ ] [Web Fundamentals – Accessibility](https://developers.google.com/web/fundamentals/accessibility/)
+- [ ] [Web Accessibility](https://mena.udacity.com/course/web-accessibility--ud891)
 - [ ] [Mobile Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/Mobile)
 - [ ] [Using tabindex](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex)
 - [ ] [Focus](https://developers.google.com/web/fundamentals/accessibility/focus/)
