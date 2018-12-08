@@ -193,6 +193,7 @@ Google wrote a very useful note - it is one of the reasons to write this guide -
 
 ### Is it a FREE certification?
 Unfortunately, it isn't. The exam costs $99 USD.
+> The exam fees has changed to **$149 USD**. _Local pricing may vary based on your country of origin._
 
 ### I have more questions about the certification that aren't listed above!
 As I mentioned above; this guide is only about sharing my journey and adding new resources to help others who want to apply for the exam.
