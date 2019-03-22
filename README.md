@@ -80,7 +80,7 @@ Web pages and applications should be accessible to all users, including those wi
 - [ ] [Using tabindex](https://developers.google.com/web/fundamentals/accessibility/focus/using-tabindex)
 - [ ] [Focus](https://developers.google.com/web/fundamentals/accessibility/focus/)
 - [ ] [Skip Navigation Links](http://webaim.org/techniques/skipnav/)
-- [ ] [ARIA](https://webaim.org/techniques/skipnav/)
+- [ ] [ARIA](https://developers.google.com/web/fundamentals/accessibility/semantics-aria/)
 
 
 ### 4) Progressive Web Apps
@@ -91,7 +91,7 @@ Users expect native applications to be available offline and provide a feature-r
 - Separating critical application functionality and UI into an application shell that can be loaded independently from the content
   
 #### Resources
-- [ ] [Progressive Web Apps](https://developers.google.com/web/fundamentals/accessibility/)
+- [ ] [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 - [ ] [Progressive Web Apps Training](https://developers.google.com/web/ilt/pwa/)
 - [ ] [Web Fundamentals - The App Shell Model](https://developers.google.com/web/fundamentals/architecture/app-shell)
 - [ ] [Your First Progressive Web App](https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/)
