@@ -14,7 +14,7 @@ If you are looking for becoming a Mobile Web Specialist by Google - *like me* - 
 - [FAQs](#faqs)
 
 ## Introduction and The exam content
-Google offers - till now - 4 certifications, the most recent one of them is the "Mobile Web Specialist" certification and if you are curios about the other certifications, visit [Google Developers Certification](https://developers.google.com/training/certification/).
+Google offers - till now - 4 certifications, the most recent one of them is the "Mobile Web Specialist" certification and if you are curious about the other certifications, visit [Google Developers Certification](https://developers.google.com/training/certification/).
 This guide will cover the **8** parts of the exam, each part will be covered with many resources to learn & prepare for it.
 **Let's dive into the exam content:**
 
@@ -68,7 +68,7 @@ Web pages and applications should be accessible to all users, including those wi
 - Using skip navigation links to bypass navbars and asides
 - Avoiding hidden content on the page that impedes tab navigation
 - Using heading tags that provide a logical page structure
-- Using text alternatives to visual content, such as alt, <label>, aria-label, and aria-labelledby
+- Using text alternatives to visual content, such as alt, &lt;label&gt;, aria-label, and aria-labelledby
 - Applying color contrast to all elements and following accessibility best practices
 - Sending timely alerts for urgent messages using aria-live
 - Using semantic markup to keep content and presentation separate when appropriate
@@ -154,7 +154,7 @@ Web developers must stay current with the latest JavaScript features that promot
 - Sets that contain only unique, iterable elements where an array would degrade performance
 
 #### Resources
-- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises) *Just if you ignored it in "[2) Front End Networking](#2-front-end-networking)" part )*
+- [ ] [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/primers/promises) *( Just if you ignored it in "[2) Front End Networking](#2-front-end-networking)" part )*
 - [ ] [Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [ ] [Template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
 - [ ] [Arrow Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
