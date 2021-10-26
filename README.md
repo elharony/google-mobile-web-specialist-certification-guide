@@ -1,3 +1,6 @@
+> **⚠ UPDATE: Unfortunately this Google Certification is no longer exists with no announced reason. That's really sad, but I will leave this repo as per your request. All resources are very helpful and still valid. Happy learning! 👌**
+
+
 # Google Mobile Web Specialist Certification Guide
 If you are looking for becoming a Mobile Web Specialist by Google - *like me* - this guide will be our best friend in this journey!
 
@@ -186,7 +189,7 @@ Filling out online forms, especially on mobile devices, can be difficult. To imp
 If you have questions, you will find the answers here!
 
 ### Why did you create this guide?
-I didn't create this guide from scratch, I copied the [Mobile Web Specialist Study Guide](https://developers.google.com/training/certification/mobile-web-specialist/StudyGuide_MobileWebSpecialist.pdf) content and resources because I will start my journey to get ```The Mobile Web Specialist``` certification today, and I want to add more useful - Free or Paid - resources to this guide to help others and save their time!
+I didn't create this guide from scratch, I copied the Mobile Web Specialist Study Guide content and resources because I will start my journey to get ```The Mobile Web Specialist``` certification today, and I want to add more useful - Free or Paid - resources to this guide to help others and save their time!
 
 Google wrote a very useful note - it is one of the reasons to write this guide - in their `Mobile Web Specialist Study Guide`:
 >  Note that these resources form only a small portion of what is available on the web, and we encourage you to do additional research
@@ -197,7 +200,7 @@ Unfortunately, it isn't. The exam costs $99 USD.
 
 ### I have more questions about the certification that aren't listed above!
 As I mentioned above; this guide is only about sharing my journey and adding new resources to help others who want to apply for the exam.
-If you want to know more about the exam/certification, you will find **everything** in [Mobile Web Specialist](https://developers.google.com/training/certification/mobile-web-specialist/#info) page.
+If you want to know more about the exam/certification, you will find **everything** in Mobile Web Specialist page _(link has been removed)_.
 
 
 ## Wrap Up
